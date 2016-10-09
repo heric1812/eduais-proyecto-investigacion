@@ -2,6 +2,7 @@
 ## Título
 ### SISTEMA WEB DE RED ACADÉMICA PARA EL ÁREA DE INGENIERÍA DE SISTEMAS
 Caso: UNERG Sede San Juan de Los Morros – Estado Guárico.
+
 Proyecto de Grado para optar al Grado de Ingeniero en Informática.
 
 ## Estructura de carpetas
@@ -9,34 +10,35 @@ Se estructuran las carpetas con los archivos de la tesis por separado con el pro
 
 ## Contribuidores
 Arianny Concepcion - arianny_concepcion@gmail.com
+
 Herick Ruiz - heric1812@gmail.com
 
 ## Leyenda
 
 Tesis (carpeta contenedora)
 1. Portada
-  * Portada.odt
-  * Portada.pdf
+  1.1 Portada.odt
+  1.2 Portada.pdf
 2. Introducción
-  * Introduccion.odt
-  * Introduccion.pdf
+  2.1 Introduccion.odt
+  2.2 Introduccion.pdf
 3. Capitulo I
-  * CapituloI.odt
-  * CapituloI.pdf
+  3.1 CapituloI.odt
+  3.2 CapituloI.pdf
 4. Capitulo II
-  * CapituloII.odt
-  * CapituloII.pdf
+  4.1 CapituloII.odt
+  4.2 CapituloII.pdf
 5. Capitulo III
-  * CapituloIII.odt
-  * CapituloIII.pdf
+  5.1 CapituloIII.odt
+  5.2 CapituloIII.pdf
 6. Capitulo IV
-  * CapituloIV.odt
-  * CapituloIV.pdf
+  6.1 CapituloIV.odt
+  6.2 CapituloIV.pdf
 7. Capitulo V
-  * CapituloV.odt
-  * CapituloV.pdf
+  7.1 CapituloV.odt
+  7.2 CapituloV.pdf
 8. Capitulo VI
-  * CapituloVI.odt
-  * CapituloVI.pdf
+  8.1 CapituloVI.odt
+  8.2 CapituloVI.pdf
 9. Bibliografía
 10. Anexos

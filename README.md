@@ -3,10 +3,9 @@
 
 ### Título
 
-###### SISTEMA WEB DE RED ACADÉMICA PARA EL ÁREA DE INGENIERÍA DE SISTEMAS
-
-  Caso: UNERG Sede San Juan de Los Morros – Estado Guárico.
-  Proyecto de Grado para optar al Grado de Ingeniero en Informática.
+##### SISTEMA WEB DE RED ACADÉMICA PARA EL ÁREA DE INGENIERÍA DE SISTEMAS
+###### Caso: UNERG Sede San Juan de Los Morros – Estado Guárico.
+###### Proyecto de Grado para optar al Grado de Ingeniero en Informática.
 
 ### Estructura de carpetas
 

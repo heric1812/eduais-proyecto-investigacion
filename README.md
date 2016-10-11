@@ -13,34 +13,35 @@
 
 ### Contribuidores
 
-- Arianny Concepcion \*-\* arianny_concepcion@gmail.com
-- Herick Ruiz \*-\* heric1812@gmail.com
+- Arianny Concepcion \- arianny_concepcion@gmail.com
+- Herick Ruiz \- heric1812@gmail.com
 
 ### Leyenda
 
-1. Portada
-  - Portada.odt
+1. Paginas Preliminares
   - Portada.pdf
 2. Introducción
-  - Introduccion.odt
   - Introduccion.pdf
 3. Capitulo I
-  - CapituloI.odt
   - CapituloI.pdf
 4. Capitulo II
-  - CapituloII.odt
   - CapituloII.pdf
 5. Capitulo III
-  - CapituloIII.odt
   - CapituloIII.pdf
 6. Capitulo IV
-  - CapituloIV.odt
   - CapituloIV.pdf
+  - Diseño Conceptual
+  - Diseño de interfaz astracta
+  - Figuras
 7. Capitulo V
-  - CapituloV.odt
   - CapituloV.pdf
+  - Diccionario de datos.pdf
+  - Tabla de datos.pdf
+  - Modulos.pdf
+  - Modulos Diagramas
 8. Capitulo VI
-  - CapituloVI.odt
   - CapituloVI.pdf
-9. Bibliografía
-10. Anexos
+  - Pruebas Alfa y Beta
+9. Concluciones
+10. Recomendaciones
+11. Referencia Bibliografica

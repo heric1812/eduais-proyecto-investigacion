@@ -13,7 +13,7 @@
 
 ### Contribuidores
 
-- Arianny Concepcion \- arianny_concepcion@gmail.com
+- Arianny Concepcion \- arianny93concepcion@gmail.com
 - Herick Ruiz \- heric1812@gmail.com
 
 ### Leyenda

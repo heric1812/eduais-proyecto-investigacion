@@ -1,0 +1,89 @@
+{
+  "experiencias" : {
+    "1" : {
+      "descripcion" : "Frontend Developer",
+      "fechaFin" : 1483329600000,
+      "fechaInicio" : 1453089600000,
+      "tipo" : "Trabajo",
+      "titulo" : "BigFaster",
+      "userId" : "1"
+    },
+    "2" : {
+      "descripcion" : "Frontend developer",
+      "fechaFin" : -2839608000000,
+      "fechaInicio" : -2839780800000,
+      "tipo" : "Trabajo",
+      "titulo" : "ICTG",
+      "userId" : "1"
+    }
+  },
+  "habilidades" : {
+    "1" : {
+      "habilidad" : "depende de lo anterior",
+      "porcentaje" : 90,
+      "timestamp" : 1485092681536,
+      "tipo" : "Programación",
+      "userId" : "1"
+    },
+    "2" : {
+      "habilidad" : "depende de lo anterior",
+      "porcentaje" : 40,
+      "timestamp" : 1485566582650,
+      "tipo" : "Analista",
+      "userId" : "1"
+    }
+  },
+  "idiomas" : {
+    "1" : {
+      "idioma" : "Español",
+      "nivel" : "Intermedio",
+      "timestamp" : 1485571664188,
+      "userId" : "1"
+    },
+    "4" : {
+      "idioma" : "Ingles",
+      "nivel" : "Básico",
+      "timestamp" : 1485570963005,
+      "userId" : "1"
+    }
+  },
+  "profile" : {
+    "1" : {
+      "nombres" : "Herick Anibal",
+      "apellidos" : "Ruiz Mejias",
+      "cedula" : 23785947,
+      "avatar" : "https://firebasestorage.googleapis.com/v0/b/redais-c7c70.appspot.com/o/kn7kogutYKbiqN1clceyVTiuUis2%2Favatar%2Fplanetas-1189.jpg?alt=media&token=6b16eacd-16d5-4105-81e0-f8306ac5ac8b",
+      "fechaNacimiento" : 768715200000,
+      "sexo" : "Masculino",
+      "profesion" : "Ingeniero en Informática",
+      "acercaMi" : "frontend development",
+      "queHago" : "Trabajar y estudiar",
+      "slug" : "herick-anibal-ruiz-mejias",
+      "nivel" : 1,
+      "status" : 1,
+      "emails" : [ "heric1812@gmail.com", "heric1812@hotmail.com" ],
+      "telefonos" : [ "04263320432", "04261491818" ],
+      "created" : 1485572022593,
+      "updated" : 1485572022593
+    }
+  },
+  "publication" : {
+    "3" : {
+      "titulo" : "Github",
+      "descripcion" : "<p><span style=\"font-size: small;text-align: left;float: none;\">Online project hosting using Git. Includes source-code browser, in-line editing, wikis, and ticketing. Free for public open-source code.</span><br/></p><p></p><p style=\"text-align: center;\"><img src=\"https://technologyconversations.files.wordpress.com/2015/10/github.png?w=625\"/>​</p><p></p>",
+      "prioridad" : "alta",
+      "tags" : [ "Programación" ],
+      "adjuntos" : [
+        {"downloadURL" : "https://firebasestorage.googleapis.com/v0/b/redais-c7c70.appspot.com/o/1%2Fadjuntos%2Fwallpaper-28484.jpg?alt=media&token=74fd06c5-bc50-4401-a369-5e9ddc3b8be0",
+          "name" : "wallpaper-28484.jpg"},
+        {"downloadURL" : "https://firebasestorage.googleapis.com/v0/b/redais-c7c70.appspot.com/o/1%2Fadjuntos%2Fskull_logo_wallpaper_1920x1200_by_lord_sprit-d5il1cp.jpg?alt=media&token=c9d19021-3fdd-45fd-8bec-b47ed0046c76",
+          "name" : "skull_logo_wallpaper_1920x1200_by_lord_sprit-d5il1cp.jpg"}
+      ],
+      "userId" : "1",
+      "userName" : "Herick Ruiz",
+      "userAvatar" : "http://lorempixel.com/200/200/abstract/9/",
+      "userSlug" : "herick-anibal-ruiz-mejias",
+      "created" : 1485384485405,
+    }
+  }
+}

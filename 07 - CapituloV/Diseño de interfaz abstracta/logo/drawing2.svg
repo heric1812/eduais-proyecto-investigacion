@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 606.35966 112.22802"
+   height="31.673239mm"
+   width="171.12819mm">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-14.041536,-15.898188)"
+     id="layer1">
+    <text
+       id="text3336"
+       y="409.50507"
+       x="125.71429"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:auto"
+       xml:space="preserve"><tspan
+         y="409.50507"
+         x="125.71429"
+         id="tspan3338" /></text>
+    <text
+       transform="scale(1.0350148,0.96616975)"
+       id="text3340"
+       y="130.40979"
+       x="305.29578"
+       style="font-style:normal;font-weight:normal;font-size:70.18248749px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1976d2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:146.84913635px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#1976d2;fill-opacity:1"
+         y="130.40979"
+         x="305.29578"
+         id="tspan3342"><tspan
+           id="tspan4180"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:146.84913635px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#b0bec3;fill-opacity:1">Red</tspan><tspan
+           id="tspan4261"
+           style="fill:#eceff1;fill-opacity:1">AIS</tspan></tspan></text>
+    <rect
+       transform="matrix(0.7213556,-0.69256487,0.72135559,0.69256488,0,0)"
+       y="64.134689"
+       x="-44.533405"
+       height="10.271299"
+       width="48.313141"
+       id="rect4208"
+       style="fill:#eceff1;fill-opacity:1" />
+    <rect
+       style="fill:#eceff1;fill-opacity:1"
+       id="rect4210"
+       width="48.313141"
+       height="10.271299"
+       x="-112.44567"
+       y="34.395832"
+       transform="matrix(-0.7213556,-0.69256487,-0.72135559,0.69256488,0,0)" />
+    <rect
+       style="fill:#eceff1;fill-opacity:1"
+       id="rect4253"
+       width="48.313141"
+       height="10.271299"
+       x="-484.29205"
+       y="-375.62177"
+       transform="matrix(-0.7213556,-0.69256487,-0.72135559,0.69256488,0,0)" />
+    <rect
+       transform="matrix(0.7213556,-0.69256487,0.72135559,0.69256488,0,0)"
+       y="474.15436"
+       x="327.31036"
+       height="10.271299"
+       width="48.313141"
+       id="rect4255"
+       style="fill:#eceff1;fill-opacity:1" />
+  </g>
+</svg>

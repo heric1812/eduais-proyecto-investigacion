@@ -1,0 +1,57 @@
+# RedAIS #
+
+Es un SPA (Single Page Aplication) del sistema RedAis, Tesis de grado de Herick Ruiz y Arianny Concepcion, el cual cuenta con su [apartado 
+teórico](https://github.com/heric1812/eduais-proyecto-investigacion) que aun se encuentra en desarrollo.
+
+## Información ##
+
+En este proyecto se evaluaron las tecnologías, framework's y herramientas a usar para obtener el mayor desempeño y productividad para el 
+desarrollo, además, para poder entregar un producto de alta calidad, tomando en cuenta el corto tiempo de desarrollo.
+
+Para lograr un optimo rendimiento del sistema se tomo la [Guía de John Papa](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) ya que proporciona una serie de buenas practicas para la programación en Angularjs, además utilizamos la [Guía de estilos de Google (Material Design)](https://material.google.com/) para tener un punto de partida con los estilos propios de Material Design.
+
+### Guías ###
+
+Las siguientes son tomadas como referencia y partida para el desarrollo estandar del proyecto.
+
+* [Guía de John Papa](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md)
+* [Guía de Estilos Material Design](https://material.google.com/)
+* [Guía de buenas prácticas API-RESTFull](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)
+
+## Tecnologías ##
+***
+#### Framework's ####
+
+Se utilizaron los siguientes framework's para el desarrollo de la herramienta tecnológica:
+
+* [Firebase 3](https://firebase.google.com/?hl=es-419)
+* [Angularjs 1.5+](https://angularjs.org/)
+* [AngularFire 3](https://github.com/firebase/angularfire#documentation)
+* [Angular Material 1.1.1](https://www.google.co.ve/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjlruHqiKLQAhVO7GMKHQIsAdgQFggbMAA&url=https%3A%2F%2Fmaterial.angularjs.org%2F&usg=AFQjCNHDj4hiz_IJTXwFUvs8LCC3r4L7YA&sig2=azbMG1eStErbiVzRXKdVEQ)
+
+#### Herramientas de desarrollo ####
+
+Las siguientes herramientas son usadas para automatizar las tareas y mejorar el rendimiento:
+
+* [Gulp](http://gulpjs.com/)
+* [Browser Sync](https://www.browsersync.io/)
+* [Node y NPM](https://nodejs.org/es/)
+
+### Instalación y Ejecutar ###
+
+Se necesitan los anteriores programas mencionados: nodejs, gulp, npm, bower.
+Al tener todo instalado se deben ejecutar en la consola los siguientes comandos, siempre y cuando no genere ningun error en el proceso.
+´npm install´
+-
+´bower install´
+-
+´npm install -g gulp-cli´
+-
+y para ejecutar el servidor despues de haber realizado todo lo anterior se ejecuta el comando ´gulp serve´.
+
+De todas formas puede ver el sistema en funcionamiento desde la url: http://redais.jairomolina.com.ve
+
+### Desarrolladores ###
+
+* Arianny Concepcion \- arianny93concepcion@gmail.com
+* Herick Ruiz \- heric1812@gmail.com
